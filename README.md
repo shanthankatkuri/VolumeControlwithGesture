@@ -8,5 +8,3 @@ Pycaw module is used to control volume.
 
 
 
-https://github.com/shanthankatkuri/VolumeControlwithGesture/assets/122714930/a5dfba69-4b33-4f84-91ff-397630a16d70
-
